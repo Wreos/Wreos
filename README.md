@@ -2,7 +2,7 @@
 
 ## My name is Aleksandr
 
-- 🔭 I’m currently working on AUTO1 Group as QA Automation Engineer
+- 🔭 I’m currently working in Enpal as QA Automation Engineer
 - 🌱 I’m currently learning Android development
 - 👯 I’m looking to collaborate on test-automation projects / libraries
 <!--
