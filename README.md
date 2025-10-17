@@ -2,9 +2,8 @@
 
 ## My name is Aleksandr
 
-- 🔭 I’m currently working in Enpal as QA Automation Engineer
-- 🌱 I’m currently learning Flutter development
-- 👯 I’m looking to collaborate on test-automation projects/libraries
+- 🔭 I’m currently working in Enpal as Flutter Developer
+- 🌱 I’m currently learning iOS Development
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
