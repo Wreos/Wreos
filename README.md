@@ -2,7 +2,7 @@
 
 ## My name is Aleksandr
 
-- 🔭 I’m currently working in Enpal as Flutter Developer
+- 🔭 I’m currently working as Flutter Developer
 - 🌱 I’m currently learning iOS Development
 <!--
 - 🤔 I’m looking for help with ...
