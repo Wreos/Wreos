@@ -24,7 +24,14 @@ Open-source contributor to Flutter, Meshtastic, and Chucker.
 
 ## Core expertise
 
-`Flutter` `Dart` `Kotlin` `Android` `iOS` `Firebase` `Azure DevOps` `CI/CD` `Test Automation` `Mobile Architecture` `AI Development`
+- Flutter
+- Dart
+- Kotlin
+- Android
+- iOS
+- CI/CD
+- Mobile Architecture
+- AI Development
 
 ## Connect
 
