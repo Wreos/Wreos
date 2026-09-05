@@ -19,17 +19,7 @@ that help teams build and release mobile applications reliably.
 - [Meshtastic Android: protect sensitive notification content](https://github.com/meshtastic/Meshtastic-Android/pull/2694)
 - [Chucker Flutter: distinguish GraphQL calls through request parameters](https://github.com/syedmurtaza108/chucker-flutter/pull/113)
 
-## Developer tools
-
-### [Test Report Analyzer](https://github.com/Wreos/test_report_analyzer)
-
-A Dart CLI that parses Android and Flutter test reports, identifies failures,
-and uses OpenAI or Anthropic models to produce root-cause analysis and actionable
-HTML reports. The project includes real report fixtures, deterministic provider
-tests, CI across Dart versions, and package publication checks.
-
-[Repository](https://github.com/Wreos/test_report_analyzer) ·
-[pub.dev](https://pub.dev/packages/test_report_analyzer)
+## My projects
 
 ### [Dart Secrets Scanner](https://github.com/Wreos/dart_secrets_scanner)
 
