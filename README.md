@@ -23,13 +23,14 @@ that help teams build and release mobile applications reliably.
 
 ### [Microsoft Entra External ID Native Authentication for Flutter](https://github.com/Wreos/microsoft_entra_external_id)
 
-An unofficial Flutter plugin that connects Microsoft Entra External ID Native
+A Flutter plugin that connects Microsoft Entra External ID Native
 Authentication to the official MSAL SDKs for Android and iOS. Your Flutter app
 owns the sign-up and sign-in UI. MSAL runs the authentication protocol and keeps
 the native token cache. Supports password and Email OTP sign-in/sign-up,
 required/custom attributes, password reset, and browser fallback.
 
-[Repository](https://github.com/Wreos/microsoft_entra_external_id)
+[Repository](https://github.com/Wreos/microsoft_entra_external_id) ·
+[pub.dev](https://pub.dev/packages/microsoft_entra_external_id)
 
 ### [Dart Secrets Scanner](https://github.com/Wreos/dart_secrets_scanner)
 
