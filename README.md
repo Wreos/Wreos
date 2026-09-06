@@ -1,6 +1,6 @@
 # Aleksandr Lozhkovoi
 
-**Mobile Engineer · Android & iOS · AI Workflows & Developer Tools · Berlin**
+**Mobile Engineer · Android & iOS · AI Workflows & Developer Tools**
 
 I build mobile applications for Android and iOS, working across native platform
 integrations and cross-platform development with Flutter. My work covers mobile
